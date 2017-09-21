@@ -1,0 +1,174 @@
+﻿已經開始建置於 2016/3/17 下午 09:16:16。
+     1>節點 2 (Build 目標) 上的專案 "c:\Users\Nako\documents\visual studio 2013\Projects\Monopoly\Monopoly\Monopoly.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Draw.cpp Object.cpp MapData.cpp PlayData.cpp WinInput.cpp
+         Draw.cpp
+     1>c:\users\nako\documents\visual studio 2013\projects\monopoly\monopoly\MapData.cpp(28): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>c:\users\nako\documents\visual studio 2013\projects\monopoly\monopoly\MapData.cpp(31): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>c:\users\nako\documents\visual studio 2013\projects\monopoly\monopoly\MapData.cpp(40): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>c:\users\nako\documents\visual studio 2013\projects\monopoly\monopoly\Object.cpp(15): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>c:\users\nako\documents\visual studio 2013\projects\monopoly\monopoly\Object.cpp(19): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>c:\users\nako\documents\visual studio 2013\projects\monopoly\monopoly\Object.cpp(24): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>c:\users\nako\documents\visual studio 2013\projects\monopoly\monopoly\Object.cpp(29): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>c:\users\nako\documents\visual studio 2013\projects\monopoly\monopoly\Object.cpp(34): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>c:\users\nako\documents\visual studio 2013\projects\monopoly\monopoly\Object.cpp(38): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>c:\users\nako\documents\visual studio 2013\projects\monopoly\monopoly\Object.cpp(42): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>c:\users\nako\documents\visual studio 2013\projects\monopoly\monopoly\Object.cpp(46): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>c:\users\nako\documents\visual studio 2013\projects\monopoly\monopoly\Object.cpp(50): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>c:\users\nako\documents\visual studio 2013\projects\monopoly\monopoly\Object.cpp(54): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>c:\users\nako\documents\visual studio 2013\projects\monopoly\monopoly\Object.cpp(58): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>c:\users\nako\documents\visual studio 2013\projects\monopoly\monopoly\Object.cpp(62): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>c:\users\nako\documents\visual studio 2013\projects\monopoly\monopoly\Object.cpp(66): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>c:\users\nako\documents\visual studio 2013\projects\monopoly\monopoly\Object.cpp(70): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>c:\users\nako\documents\visual studio 2013\projects\monopoly\monopoly\Object.cpp(74): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>c:\users\nako\documents\visual studio 2013\projects\monopoly\monopoly\Object.cpp(78): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>c:\users\nako\documents\visual studio 2013\projects\monopoly\monopoly\Object.cpp(82): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>c:\users\nako\documents\visual studio 2013\projects\monopoly\monopoly\Object.cpp(86): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>c:\users\nako\documents\visual studio 2013\projects\monopoly\monopoly\Object.cpp(90): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>c:\users\nako\documents\visual studio 2013\projects\monopoly\monopoly\Object.cpp(94): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>c:\users\nako\documents\visual studio 2013\projects\monopoly\monopoly\Object.cpp(98): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>c:\users\nako\documents\visual studio 2013\projects\monopoly\monopoly\Object.cpp(102): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>c:\users\nako\documents\visual studio 2013\projects\monopoly\monopoly\Object.cpp(106): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>c:\users\nako\documents\visual studio 2013\projects\monopoly\monopoly\Object.cpp(110): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>c:\users\nako\documents\visual studio 2013\projects\monopoly\monopoly\Object.cpp(114): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>c:\users\nako\documents\visual studio 2013\projects\monopoly\monopoly\Object.cpp(118): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>c:\users\nako\documents\visual studio 2013\projects\monopoly\monopoly\Object.cpp(122): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>c:\users\nako\documents\visual studio 2013\projects\monopoly\monopoly\Object.cpp(126): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>c:\users\nako\documents\visual studio 2013\projects\monopoly\monopoly\Object.cpp(130): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>c:\users\nako\documents\visual studio 2013\projects\monopoly\monopoly\Object.cpp(134): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>c:\users\nako\documents\visual studio 2013\projects\monopoly\monopoly\Object.cpp(138): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>c:\users\nako\documents\visual studio 2013\projects\monopoly\monopoly\Object.cpp(142): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>c:\users\nako\documents\visual studio 2013\projects\monopoly\monopoly\Object.cpp(146): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>c:\users\nako\documents\visual studio 2013\projects\monopoly\monopoly\Object.cpp(150): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>c:\users\nako\documents\visual studio 2013\projects\monopoly\monopoly\PlayData.cpp(2): warning C4005: 'STRLEN' : 巨集重複定義
+                 c:\users\nako\documents\visual studio 2013\projects\monopoly\monopoly\MapData.cpp(3) : 請參閱 'STRLEN' 之前的定義
+     1>c:\users\nako\documents\visual studio 2013\projects\monopoly\monopoly\PlayData.cpp(23): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+         Object.cpp
+     1>c:\users\nako\documents\visual studio 2013\projects\monopoly\monopoly\MapData.cpp(28): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>c:\users\nako\documents\visual studio 2013\projects\monopoly\monopoly\MapData.cpp(31): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>c:\users\nako\documents\visual studio 2013\projects\monopoly\monopoly\MapData.cpp(40): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>Object.cpp(15): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>Object.cpp(19): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>Object.cpp(24): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>Object.cpp(29): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>Object.cpp(34): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>Object.cpp(38): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>Object.cpp(42): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>Object.cpp(46): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>Object.cpp(50): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>Object.cpp(54): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>Object.cpp(58): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>Object.cpp(62): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>Object.cpp(66): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>Object.cpp(70): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>Object.cpp(74): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>Object.cpp(78): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>Object.cpp(82): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>Object.cpp(86): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>Object.cpp(90): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>Object.cpp(94): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>Object.cpp(98): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>Object.cpp(102): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>Object.cpp(106): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>Object.cpp(110): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>Object.cpp(114): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>Object.cpp(118): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>Object.cpp(122): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>Object.cpp(126): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>Object.cpp(130): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>Object.cpp(134): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>Object.cpp(138): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>Object.cpp(142): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>Object.cpp(146): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>Object.cpp(150): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+         MapData.cpp
+     1>MapData.cpp(28): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>MapData.cpp(31): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+     1>MapData.cpp(40): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+         PlayData.cpp
+     1>PlayData.cpp(23): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 請參閱 'strcpy' 的宣告
+         WinInput.cpp
+     1>專案 "c:\Users\Nako\documents\visual studio 2013\Projects\Monopoly\Monopoly\Monopoly.vcxproj" (Build 目標) 建置完成 -- 失敗。
+
+建置失敗。
+
+經過時間 00:00:00.73

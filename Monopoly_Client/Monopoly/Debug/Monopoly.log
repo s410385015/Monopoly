@@ -1,0 +1,33 @@
+﻿已經開始建置於 2016/3/21 下午 01:03:29。
+     1>節點 2 (Build 目標) 上的專案 "C:\Users\Nako\Documents\Visual Studio 2013\Projects\Monopoly_Client\Monopoly\Monopoly.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Socket.cpp cSource.cpp
+         cSource.cpp
+     1>c:\users\nako\documents\visual studio 2013\projects\monopoly_client\monopoly\socket.cpp(7): warning C4005: 'MAXBYTE' : 巨集重複定義
+                 c:\program files (x86)\windows kits\8.1\include\um\winnt.h(1098) : 請參閱 'MAXBYTE' 之前的定義
+     1>c:\users\nako\documents\visual studio 2013\projects\monopoly_client\monopoly\playdata.cpp(2): warning C4005: 'STRLEN' : 巨集重複定義
+                 c:\users\nako\documents\visual studio 2013\projects\monopoly_client\monopoly\mapdata.cpp(4) : 請參閱 'STRLEN' 之前的定義
+     1>c:\users\nako\documents\visual studio 2013\projects\monopoly_client\monopoly\csource.cpp(19): warning C4244: '引數' : 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+     1>c:\users\nako\documents\visual studio 2013\projects\monopoly_client\monopoly\csource.cpp(18): warning C4101: 'EacPoint' : 未參考的區域變數
+         Socket.cpp
+     1>c:\users\nako\documents\visual studio 2013\projects\monopoly_client\monopoly\socket.cpp(7): warning C4005: 'MAXBYTE' : 巨集重複定義
+                 c:\program files (x86)\windows kits\8.1\include\um\winnt.h(1098) : 請參閱 'MAXBYTE' 之前的定義
+         正在產生程式碼...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Nako\Documents\Visual Studio 2013\Projects\Monopoly_Client\Debug\Monopoly.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Nako\Documents\Visual Studio 2013\Projects\Monopoly_Client\Debug\Monopoly.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Nako\Documents\Visual Studio 2013\Projects\Monopoly_Client\Debug\Monopoly.lib" /MACHINE:X86 /FORCE:MULTIPLE Debug\Control.obj
+         Debug\Draw.obj
+         Debug\Event.obj
+         Debug\Object.obj
+         Debug\MapData.obj
+         Debug\PlayData.obj
+         Debug\Socket.obj
+         Debug\cSource.obj
+         Debug\WinInput.obj
+     1>LINK : warning LNK4075: 忽略 '/INCREMENTAL'，由於 '/FORCE' 規格
+     1>Control.obj : warning LNK4075: 忽略 '/EDITANDCONTINUE'，由於 '/OPT:LBR' 規格
+         Monopoly.vcxproj -> C:\Users\Nako\Documents\Visual Studio 2013\Projects\Monopoly_Client\Debug\Monopoly.exe
+     1>專案 "C:\Users\Nako\Documents\Visual Studio 2013\Projects\Monopoly_Client\Monopoly\Monopoly.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:00.97
